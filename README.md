@@ -28,13 +28,13 @@ This project analyzes the annual operational and financial performance of a dent
 ![Slide Overview](slide_overview.png)
 
 ### 2. Financial Dynamics & Overview
-![Slide Overview 2](slide_overview%202.png)
+![Slide Overview 2](slide_overview_2.png)
 
 ### 3. Doctor Workload & Patient Inquiries
-![Slide Overview 3](slide_overview%203.png)
+![Slide Overview 3](slide_overview_3.png)
 
 ### 4. Financial Growth & Projections
-![Slide Overview 4](slide_overview%204.png)
+![Slide Overview 4](slide_overview_4.png)
 
 ---
 
@@ -53,6 +53,7 @@ To achieve cumulative profitability, two key initiatives were modeled for Period
 ---
 
 ## 🛠 Project Structure
+
 
 ---
 
